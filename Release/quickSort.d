@@ -1,1 +1,0 @@
-quickSort.d: ../quickSort.cpp

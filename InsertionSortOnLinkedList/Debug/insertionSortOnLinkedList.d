@@ -1,0 +1,1 @@
+insertionSortOnLinkedList.d: ../insertionSortOnLinkedList.cpp
