@@ -1,1 +1,3 @@
-Bubble.d: ../Bubble.cpp
+Bubble.d: ../Bubble.cpp ../Sort.h
+
+../Sort.h:
