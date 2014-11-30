@@ -1,3 +1,8 @@
+//@Author: Utsav Popli
+//Datastructures using C
+//Implementation of Stack with Linked List
+
+
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
@@ -39,16 +44,11 @@ void push(int val)
 		top->nextLink = NULL;
 		return ;
 	} else {
-
 		node * temp  = (struct node *)malloc(sizeof(node));
 		temp->nextLink = top;
 		temp->info = val;
 		top = temp;
-
 	}
-
-
-
 }
 
 
