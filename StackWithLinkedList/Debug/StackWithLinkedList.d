@@ -1,0 +1,1 @@
+StackWithLinkedList.d: ../StackWithLinkedList.cpp
