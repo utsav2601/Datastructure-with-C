@@ -1,3 +1,6 @@
+//@Author: Utsav Popli
+//Datastructures using C
+//Double Linked List
 #include <iostream>
 #include <stdlib.h>
 

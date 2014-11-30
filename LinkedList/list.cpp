@@ -2,7 +2,7 @@
  * list.cpp
  *
  *  Created on: Nov 18, 2014
- *      Author: utsav
+ *      Author: utsav popli
  */
 #include <iostream>
 #include <stdlib.h>
