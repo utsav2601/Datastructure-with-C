@@ -1,0 +1,1 @@
+QueueForArray.d: ../QueueForArray.cpp

@@ -1,0 +1,1 @@
+QueueWithLinkedList.d: ../QueueWithLinkedList.cpp

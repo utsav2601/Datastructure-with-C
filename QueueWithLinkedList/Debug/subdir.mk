@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
-../list.cpp 
+../QueueWithLinkedList.cpp 
 
 OBJS += \
-./list.o 
+./QueueWithLinkedList.o 
 
 CPP_DEPS += \
-./list.d 
+./QueueWithLinkedList.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
